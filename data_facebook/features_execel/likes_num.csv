@@ -1,0 +1,234 @@
+category,count(category)
+Actor/Director,28501
+Aerospace/Defense,213
+Airport,24
+Album,425
+"Amateur Sports Team",470
+Animal,5
+"Animal Breed",12
+"App Page",12689
+Appliances,54
+Art,37
+Article,2
+Artist,21392
+Arts/Entertainment/Nightlife,2224
+"Arts/Humanities Website",4794
+Athlete,10452
+"Attractions/Things to Do",502
+Author,11514
+"Automobiles and Parts",837
+Automotive,557
+"Baby Goods/Kids Goods",429
+Bags/Luggage,1638
+"Bank/Financial Institution",504
+"Bank/Financial Services",71
+Bar,399
+Biotechnology,147
+Blogger,3119
+"Board Game",22
+Book,4343
+"Book Genre",42
+"Book Series",960
+"Book Store",685
+"Brand/Company Type",1
+"Building Materials",38
+"Business Person",332
+"Business Services",364
+"Business/Economy Website",1132
+Camera/Photo,797
+Cars,2180
+Cause,2226
+Chef,381
+Chemicals,101
+"Church/Religious Organization",1149
+City,485
+Clothing,39219
+Club,1018
+Coach,375
+Comedian,8479
+"Commercial Equipment",11
+Community,66963
+"Community Organization",982
+Community/Government,183
+Company,11972
+Competition,1
+Computers,276
+"Computers/Internet Website",1244
+Computers/Technology,765
+"Concentration or Major",15
+"Concert Tour",709
+"Concert Venue",640
+"Consulting/Business Services",1506
+Country,88
+Course,8
+Cuisine,1
+Dancer,1260
+Designer,1154
+Diseases,4
+Doctor,136
+Drink,11
+Drugs,67
+Education,3323
+"Education Website",937
+"Education/Work Status",2
+Electronics,963
+"Elementary School",11
+Energy/Utility,23
+Engineering/Construction,306
+Entertainer,15964
+"Entertainment Website",12185
+Entrepreneur,114
+Episode,130
+Event,30
+"Event Planning/Event Services",541
+Farming/Agriculture,218
+"Fictional Character",9499
+"Field of Study",50
+Food,80
+Food/Beverages,10989
+Food/Grocery,2808
+Furniture,564
+Games/Toys,6603
+"Government Official",101
+"Government Organization",2100
+"Government Website",180
+Health/Beauty,8031
+Health/Medical/Pharmaceuticals,427
+Health/Medical/Pharmacy,160
+"Health/Wellness Website",555
+"High School Status",2
+Holiday,4
+"Home Decor",1304
+"Home Improvement",172
+"Home/Garden Website",210
+Hospital/Clinic,300
+Hotel,1166
+"Household Supplies",440
+Industrials,51
+"Insurance Company",571
+Interest,8976
+Internet/Software,2315
+Jewelry/Watches,1845
+Journalist,529
+"Just For Fun",3376
+Kitchen/Cooking,1249
+Landmark,819
+Language,47
+Lawyer,35
+Legal/Law,43
+Library,109
+"Life Event",2
+"Literary Editor",97
+"Local Business",23159
+"Local/Travel Website",2129
+Magazine,5221
+Media/News/Publishing,27043
+"Medical & Health",1
+"Medical Procedure",1
+"Middle School",76
+Mining/Materials,618
+Monarch,864
+Movie,12909
+"Movie Character",780
+"Movie Genre",13
+"Movie Studio",1458
+"Movie Theater",595
+"Museum/Art Gallery",940
+Music,539
+"Music Award",243
+"Music Chart",255
+"Music Video",410
+"Musical Genre",63
+"Musical Instrument",147
+Musician/Band,57010
+Neighborhood,16
+"News Personality",513
+"News/Media Website",6837
+Newspaper,11
+"Non-Governmental Organization (NGO)",2805
+"Non-Profit Organization",8559
+"Office Supplies",106
+Organization,7219
+Other,314
+"Outdoor Gear/Sporting Goods",2076
+Patio/Garden,177
+"Performance Art",283
+"Personal Blog",11912
+"Personal Website",2583
+Pet,3577
+"Pet Services",696
+"Pet Supplies",660
+Phone/Tablet,429
+Photographer,1088
+Playlist,45
+Podcast,63
+"Political Ideology",15
+"Political Organization",219
+"Political Party",320
+Politician,2273
+Preschool,35
+Producer,835
+"Product Type",3
+Product/Service,29381
+Profession,4
+"Professional Services",3355
+Profile,11
+"Public Figure",52071
+"Public Places",304
+Publisher,401
+"Radio Station",897
+"Real Estate",230
+"Record Label",1281
+"Recreation/Sports Website",1359
+"Reference Website",531
+"Regional Website",798
+Religion,63
+Restaurant/Cafe,12465
+"Retail and Consumer Merchandise",4617
+School,4328
+"School Sports Team",688
+"Science Website",244
+Scientist,148
+Shopping/Retail,8891
+"Small Business",945
+"Society/Culture Website",1661
+Software,981
+Song,683
+"Spas/Beauty/Personal Care",784
+Sport,393
+"Sports Event",549
+"Sports League",2430
+"Sports Team",3505
+"Sports Venue",721
+Sports/Recreation/Activities,1027
+State/Province/Region,9
+Studio,497
+Teacher,2008
+"Teens/Kids Website",158
+Telecommunication,423
+"Theatrical Play",22
+Tools/Equipment,141
+Topic,2
+Tours/Sightseeing,2350
+"Transit Stop",39
+Transport/Freight,492
+Transportation,156
+Travel/Leisure,4746
+TV,342
+"TV Channel",1300
+"TV Genre",47
+"TV Network",1721
+"TV Season",39
+"TV Show",17813
+"TV/Movie Award",285
+University,9060
+"University Status",1
+Video,777
+"Video Game",2874
+Vitamins/Supplements,371
+Website,14614
+Wine/Spirits,250
+"Work Position",38
+"Work Project",9
+"Work Status",1
+Writer,9271

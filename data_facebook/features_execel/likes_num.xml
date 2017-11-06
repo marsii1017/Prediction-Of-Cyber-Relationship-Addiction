@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+			<Cell><Data ss:Type="String">count(category)</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Actor/Director</Data></Cell>
+			<Cell><Data ss:Type="String">28501</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Aerospace/Defense</Data></Cell>
+			<Cell><Data ss:Type="String">213</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Airport</Data></Cell>
+			<Cell><Data ss:Type="String">24</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Album</Data></Cell>
+			<Cell><Data ss:Type="String">425</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Amateur Sports Team</Data></Cell>
+			<Cell><Data ss:Type="String">470</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Animal</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Animal Breed</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">App Page</Data></Cell>
+			<Cell><Data ss:Type="String">12689</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Appliances</Data></Cell>
+			<Cell><Data ss:Type="String">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Art</Data></Cell>
+			<Cell><Data ss:Type="String">37</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Article</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Artist</Data></Cell>
+			<Cell><Data ss:Type="String">21392</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Arts/Entertainment/Nightlife</Data></Cell>
+			<Cell><Data ss:Type="String">2224</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Arts/Humanities Website</Data></Cell>
+			<Cell><Data ss:Type="String">4794</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Athlete</Data></Cell>
+			<Cell><Data ss:Type="String">10452</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Attractions/Things to Do</Data></Cell>
+			<Cell><Data ss:Type="String">502</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Author</Data></Cell>
+			<Cell><Data ss:Type="String">11514</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Automobiles and Parts</Data></Cell>
+			<Cell><Data ss:Type="String">837</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Automotive</Data></Cell>
+			<Cell><Data ss:Type="String">557</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Baby Goods/Kids Goods</Data></Cell>
+			<Cell><Data ss:Type="String">429</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bags/Luggage</Data></Cell>
+			<Cell><Data ss:Type="String">1638</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bank/Financial Institution</Data></Cell>
+			<Cell><Data ss:Type="String">504</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bank/Financial Services</Data></Cell>
+			<Cell><Data ss:Type="String">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bar</Data></Cell>
+			<Cell><Data ss:Type="String">399</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Biotechnology</Data></Cell>
+			<Cell><Data ss:Type="String">147</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Blogger</Data></Cell>
+			<Cell><Data ss:Type="String">3119</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Board Game</Data></Cell>
+			<Cell><Data ss:Type="String">22</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Book</Data></Cell>
+			<Cell><Data ss:Type="String">4343</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Book Genre</Data></Cell>
+			<Cell><Data ss:Type="String">42</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Book Series</Data></Cell>
+			<Cell><Data ss:Type="String">960</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Book Store</Data></Cell>
+			<Cell><Data ss:Type="String">685</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brand/Company Type</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Building Materials</Data></Cell>
+			<Cell><Data ss:Type="String">38</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Business Person</Data></Cell>
+			<Cell><Data ss:Type="String">332</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Business Services</Data></Cell>
+			<Cell><Data ss:Type="String">364</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Business/Economy Website</Data></Cell>
+			<Cell><Data ss:Type="String">1132</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Camera/Photo</Data></Cell>
+			<Cell><Data ss:Type="String">797</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cars</Data></Cell>
+			<Cell><Data ss:Type="String">2180</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cause</Data></Cell>
+			<Cell><Data ss:Type="String">2226</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chef</Data></Cell>
+			<Cell><Data ss:Type="String">381</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chemicals</Data></Cell>
+			<Cell><Data ss:Type="String">101</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Church/Religious Organization</Data></Cell>
+			<Cell><Data ss:Type="String">1149</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">City</Data></Cell>
+			<Cell><Data ss:Type="String">485</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Clothing</Data></Cell>
+			<Cell><Data ss:Type="String">39219</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Club</Data></Cell>
+			<Cell><Data ss:Type="String">1018</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Coach</Data></Cell>
+			<Cell><Data ss:Type="String">375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Comedian</Data></Cell>
+			<Cell><Data ss:Type="String">8479</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Commercial Equipment</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Community</Data></Cell>
+			<Cell><Data ss:Type="String">66963</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Community Organization</Data></Cell>
+			<Cell><Data ss:Type="String">982</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Community/Government</Data></Cell>
+			<Cell><Data ss:Type="String">183</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">11972</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Competition</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Computers</Data></Cell>
+			<Cell><Data ss:Type="String">276</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Computers/Internet Website</Data></Cell>
+			<Cell><Data ss:Type="String">1244</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Computers/Technology</Data></Cell>
+			<Cell><Data ss:Type="String">765</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Concentration or Major</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Concert Tour</Data></Cell>
+			<Cell><Data ss:Type="String">709</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Concert Venue</Data></Cell>
+			<Cell><Data ss:Type="String">640</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Consulting/Business Services</Data></Cell>
+			<Cell><Data ss:Type="String">1506</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Country</Data></Cell>
+			<Cell><Data ss:Type="String">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Course</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cuisine</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dancer</Data></Cell>
+			<Cell><Data ss:Type="String">1260</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Designer</Data></Cell>
+			<Cell><Data ss:Type="String">1154</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Diseases</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Doctor</Data></Cell>
+			<Cell><Data ss:Type="String">136</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Drink</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Drugs</Data></Cell>
+			<Cell><Data ss:Type="String">67</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Education</Data></Cell>
+			<Cell><Data ss:Type="String">3323</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Education Website</Data></Cell>
+			<Cell><Data ss:Type="String">937</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Education/Work Status</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Electronics</Data></Cell>
+			<Cell><Data ss:Type="String">963</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Elementary School</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Energy/Utility</Data></Cell>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Engineering/Construction</Data></Cell>
+			<Cell><Data ss:Type="String">306</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Entertainer</Data></Cell>
+			<Cell><Data ss:Type="String">15964</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Entertainment Website</Data></Cell>
+			<Cell><Data ss:Type="String">12185</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Entrepreneur</Data></Cell>
+			<Cell><Data ss:Type="String">114</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Episode</Data></Cell>
+			<Cell><Data ss:Type="String">130</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Event</Data></Cell>
+			<Cell><Data ss:Type="String">30</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Event Planning/Event Services</Data></Cell>
+			<Cell><Data ss:Type="String">541</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Farming/Agriculture</Data></Cell>
+			<Cell><Data ss:Type="String">218</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Fictional Character</Data></Cell>
+			<Cell><Data ss:Type="String">9499</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Field of Study</Data></Cell>
+			<Cell><Data ss:Type="String">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Food</Data></Cell>
+			<Cell><Data ss:Type="String">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Food/Beverages</Data></Cell>
+			<Cell><Data ss:Type="String">10989</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Food/Grocery</Data></Cell>
+			<Cell><Data ss:Type="String">2808</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Furniture</Data></Cell>
+			<Cell><Data ss:Type="String">564</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Games/Toys</Data></Cell>
+			<Cell><Data ss:Type="String">6603</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Government Official</Data></Cell>
+			<Cell><Data ss:Type="String">101</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Government Organization</Data></Cell>
+			<Cell><Data ss:Type="String">2100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Government Website</Data></Cell>
+			<Cell><Data ss:Type="String">180</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Health/Beauty</Data></Cell>
+			<Cell><Data ss:Type="String">8031</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Health/Medical/Pharmaceuticals</Data></Cell>
+			<Cell><Data ss:Type="String">427</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Health/Medical/Pharmacy</Data></Cell>
+			<Cell><Data ss:Type="String">160</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Health/Wellness Website</Data></Cell>
+			<Cell><Data ss:Type="String">555</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">High School Status</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Holiday</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Home Decor</Data></Cell>
+			<Cell><Data ss:Type="String">1304</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Home Improvement</Data></Cell>
+			<Cell><Data ss:Type="String">172</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Home/Garden Website</Data></Cell>
+			<Cell><Data ss:Type="String">210</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hospital/Clinic</Data></Cell>
+			<Cell><Data ss:Type="String">300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hotel</Data></Cell>
+			<Cell><Data ss:Type="String">1166</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Household Supplies</Data></Cell>
+			<Cell><Data ss:Type="String">440</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Industrials</Data></Cell>
+			<Cell><Data ss:Type="String">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Insurance Company</Data></Cell>
+			<Cell><Data ss:Type="String">571</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Interest</Data></Cell>
+			<Cell><Data ss:Type="String">8976</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Internet/Software</Data></Cell>
+			<Cell><Data ss:Type="String">2315</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jewelry/Watches</Data></Cell>
+			<Cell><Data ss:Type="String">1845</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Journalist</Data></Cell>
+			<Cell><Data ss:Type="String">529</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Just For Fun</Data></Cell>
+			<Cell><Data ss:Type="String">3376</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kitchen/Cooking</Data></Cell>
+			<Cell><Data ss:Type="String">1249</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Landmark</Data></Cell>
+			<Cell><Data ss:Type="String">819</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Language</Data></Cell>
+			<Cell><Data ss:Type="String">47</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lawyer</Data></Cell>
+			<Cell><Data ss:Type="String">35</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Legal/Law</Data></Cell>
+			<Cell><Data ss:Type="String">43</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Library</Data></Cell>
+			<Cell><Data ss:Type="String">109</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Life Event</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Literary Editor</Data></Cell>
+			<Cell><Data ss:Type="String">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Local Business</Data></Cell>
+			<Cell><Data ss:Type="String">23159</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Local/Travel Website</Data></Cell>
+			<Cell><Data ss:Type="String">2129</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Magazine</Data></Cell>
+			<Cell><Data ss:Type="String">5221</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Media/News/Publishing</Data></Cell>
+			<Cell><Data ss:Type="String">27043</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Medical & Health</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Medical Procedure</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Middle School</Data></Cell>
+			<Cell><Data ss:Type="String">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mining/Materials</Data></Cell>
+			<Cell><Data ss:Type="String">618</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Monarch</Data></Cell>
+			<Cell><Data ss:Type="String">864</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Movie</Data></Cell>
+			<Cell><Data ss:Type="String">12909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Movie Character</Data></Cell>
+			<Cell><Data ss:Type="String">780</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Movie Genre</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Movie Studio</Data></Cell>
+			<Cell><Data ss:Type="String">1458</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Movie Theater</Data></Cell>
+			<Cell><Data ss:Type="String">595</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Museum/Art Gallery</Data></Cell>
+			<Cell><Data ss:Type="String">940</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Music</Data></Cell>
+			<Cell><Data ss:Type="String">539</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Music Award</Data></Cell>
+			<Cell><Data ss:Type="String">243</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Music Chart</Data></Cell>
+			<Cell><Data ss:Type="String">255</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Music Video</Data></Cell>
+			<Cell><Data ss:Type="String">410</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Musical Genre</Data></Cell>
+			<Cell><Data ss:Type="String">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Musical Instrument</Data></Cell>
+			<Cell><Data ss:Type="String">147</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Musician/Band</Data></Cell>
+			<Cell><Data ss:Type="String">57010</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Neighborhood</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">News Personality</Data></Cell>
+			<Cell><Data ss:Type="String">513</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">News/Media Website</Data></Cell>
+			<Cell><Data ss:Type="String">6837</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Newspaper</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Non-Governmental Organization (NGO)</Data></Cell>
+			<Cell><Data ss:Type="String">2805</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Non-Profit Organization</Data></Cell>
+			<Cell><Data ss:Type="String">8559</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Office Supplies</Data></Cell>
+			<Cell><Data ss:Type="String">106</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Organization</Data></Cell>
+			<Cell><Data ss:Type="String">7219</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Other</Data></Cell>
+			<Cell><Data ss:Type="String">314</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Outdoor Gear/Sporting Goods</Data></Cell>
+			<Cell><Data ss:Type="String">2076</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Patio/Garden</Data></Cell>
+			<Cell><Data ss:Type="String">177</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Performance Art</Data></Cell>
+			<Cell><Data ss:Type="String">283</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Personal Blog</Data></Cell>
+			<Cell><Data ss:Type="String">11912</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Personal Website</Data></Cell>
+			<Cell><Data ss:Type="String">2583</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Pet</Data></Cell>
+			<Cell><Data ss:Type="String">3577</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Pet Services</Data></Cell>
+			<Cell><Data ss:Type="String">696</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Pet Supplies</Data></Cell>
+			<Cell><Data ss:Type="String">660</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Phone/Tablet</Data></Cell>
+			<Cell><Data ss:Type="String">429</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Photographer</Data></Cell>
+			<Cell><Data ss:Type="String">1088</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Playlist</Data></Cell>
+			<Cell><Data ss:Type="String">45</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Podcast</Data></Cell>
+			<Cell><Data ss:Type="String">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Political Ideology</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Political Organization</Data></Cell>
+			<Cell><Data ss:Type="String">219</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Political Party</Data></Cell>
+			<Cell><Data ss:Type="String">320</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Politician</Data></Cell>
+			<Cell><Data ss:Type="String">2273</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Preschool</Data></Cell>
+			<Cell><Data ss:Type="String">35</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Producer</Data></Cell>
+			<Cell><Data ss:Type="String">835</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Product Type</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Product/Service</Data></Cell>
+			<Cell><Data ss:Type="String">29381</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Profession</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Professional Services</Data></Cell>
+			<Cell><Data ss:Type="String">3355</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Profile</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Public Figure</Data></Cell>
+			<Cell><Data ss:Type="String">52071</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Public Places</Data></Cell>
+			<Cell><Data ss:Type="String">304</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Publisher</Data></Cell>
+			<Cell><Data ss:Type="String">401</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Radio Station</Data></Cell>
+			<Cell><Data ss:Type="String">897</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Real Estate</Data></Cell>
+			<Cell><Data ss:Type="String">230</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Record Label</Data></Cell>
+			<Cell><Data ss:Type="String">1281</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Recreation/Sports Website</Data></Cell>
+			<Cell><Data ss:Type="String">1359</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Reference Website</Data></Cell>
+			<Cell><Data ss:Type="String">531</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Regional Website</Data></Cell>
+			<Cell><Data ss:Type="String">798</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Religion</Data></Cell>
+			<Cell><Data ss:Type="String">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Restaurant/Cafe</Data></Cell>
+			<Cell><Data ss:Type="String">12465</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Retail and Consumer Merchandise</Data></Cell>
+			<Cell><Data ss:Type="String">4617</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">School</Data></Cell>
+			<Cell><Data ss:Type="String">4328</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">School Sports Team</Data></Cell>
+			<Cell><Data ss:Type="String">688</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Science Website</Data></Cell>
+			<Cell><Data ss:Type="String">244</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Scientist</Data></Cell>
+			<Cell><Data ss:Type="String">148</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Shopping/Retail</Data></Cell>
+			<Cell><Data ss:Type="String">8891</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Small Business</Data></Cell>
+			<Cell><Data ss:Type="String">945</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Society/Culture Website</Data></Cell>
+			<Cell><Data ss:Type="String">1661</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Software</Data></Cell>
+			<Cell><Data ss:Type="String">981</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Song</Data></Cell>
+			<Cell><Data ss:Type="String">683</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spas/Beauty/Personal Care</Data></Cell>
+			<Cell><Data ss:Type="String">784</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sport</Data></Cell>
+			<Cell><Data ss:Type="String">393</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sports Event</Data></Cell>
+			<Cell><Data ss:Type="String">549</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sports League</Data></Cell>
+			<Cell><Data ss:Type="String">2430</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sports Team</Data></Cell>
+			<Cell><Data ss:Type="String">3505</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sports Venue</Data></Cell>
+			<Cell><Data ss:Type="String">721</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sports/Recreation/Activities</Data></Cell>
+			<Cell><Data ss:Type="String">1027</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">State/Province/Region</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Studio</Data></Cell>
+			<Cell><Data ss:Type="String">497</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Teacher</Data></Cell>
+			<Cell><Data ss:Type="String">2008</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Teens/Kids Website</Data></Cell>
+			<Cell><Data ss:Type="String">158</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Telecommunication</Data></Cell>
+			<Cell><Data ss:Type="String">423</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Theatrical Play</Data></Cell>
+			<Cell><Data ss:Type="String">22</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tools/Equipment</Data></Cell>
+			<Cell><Data ss:Type="String">141</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Topic</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tours/Sightseeing</Data></Cell>
+			<Cell><Data ss:Type="String">2350</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Transit Stop</Data></Cell>
+			<Cell><Data ss:Type="String">39</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Transport/Freight</Data></Cell>
+			<Cell><Data ss:Type="String">492</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Transportation</Data></Cell>
+			<Cell><Data ss:Type="String">156</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Travel/Leisure</Data></Cell>
+			<Cell><Data ss:Type="String">4746</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV</Data></Cell>
+			<Cell><Data ss:Type="String">342</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Channel</Data></Cell>
+			<Cell><Data ss:Type="String">1300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Genre</Data></Cell>
+			<Cell><Data ss:Type="String">47</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Network</Data></Cell>
+			<Cell><Data ss:Type="String">1721</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Season</Data></Cell>
+			<Cell><Data ss:Type="String">39</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Show</Data></Cell>
+			<Cell><Data ss:Type="String">17813</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV/Movie Award</Data></Cell>
+			<Cell><Data ss:Type="String">285</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">University</Data></Cell>
+			<Cell><Data ss:Type="String">9060</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">University Status</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Video</Data></Cell>
+			<Cell><Data ss:Type="String">777</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Video Game</Data></Cell>
+			<Cell><Data ss:Type="String">2874</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Vitamins/Supplements</Data></Cell>
+			<Cell><Data ss:Type="String">371</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Website</Data></Cell>
+			<Cell><Data ss:Type="String">14614</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wine/Spirits</Data></Cell>
+			<Cell><Data ss:Type="String">250</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Work Position</Data></Cell>
+			<Cell><Data ss:Type="String">38</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Work Project</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Work Status</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Writer</Data></Cell>
+			<Cell><Data ss:Type="String">9271</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
